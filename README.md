@@ -4,6 +4,10 @@
 hierarchies to exact dimensions while preserving their existing object Scale
 values.
 
+![Simple Uniform Resizer — Cinema 4D Plugin](simple-uniform-resizer-cover.png)
+
+# Simple Uniform Resizer
+
 ## History
 
 The project was inspired by
